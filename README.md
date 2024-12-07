@@ -25,7 +25,7 @@ Son zamanlarda, **quantum bilgisayarlar** üzerine derinlemesine araştırmalar 
 
 ## 📫 Bana Ulaşın
 - [E-Postam](connect.hyperion@proton.me) 🔗
-- [GitHub](https://github.com/hyperion) 💻
+- [GitHub](https://github.com/KeremOzkan454) 💻
 
 ## 🌟 Hedefim
 Azure ve quantum bilgisayarlar hakkında daha fazla öğrenmek ve bu teknolojileri kullanarak anlamlı projeler geliştirmek. Teknolojinin geleceğini şekillendirmeye yardımcı olmak için sürekli olarak yeni beceriler edinmeye çalışıyorum!
