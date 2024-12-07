@@ -1,8 +1,10 @@
 # Merhaba! Ben **Kerem Özkan** 👋
 
-Ben, yazılım geliştirme ve **Azure** teknolojileri ile ilgilenen bir öğrenci ve teknoloji meraklısıyım. GitHub profilimde, **Azure**'da geliştirdiğim projeler, **quantum bilgisayarlar** ile ilgili keşiflerim ve diğer teknoloji odaklı çalışmalarımı bulabilirsiniz! 🚀
+
 
 ## 🚀 Öğrenme Yolculuğum
+Ben, yazılım geliştirme ve **Azure** teknolojileri ile ilgilenen bir öğrenci ve teknoloji meraklısıyım. GitHub profilimde, **Azure**'da geliştirdiğim projeler, **quantum bilgisayarlar** ile ilgili keşiflerim ve diğer teknoloji odaklı çalışmalarımı bulabilirsiniz! 🚀
+
 Azure, bulut teknolojileri, **yapay zeka** ve **quantum bilgisayarlar** gibi alanlarda öğrendiklerimi ve geliştirdiğim projeleri burada paylaşıyorum. Amacım, bu teknolojileri daha derinlemesine keşfetmek ve projelerimle öğrenmeyi pekiştirmek. 
 
 ## ☁️ **Azure** ile Neler Yapıyorum?
@@ -23,14 +25,6 @@ Son zamanlarda, **quantum bilgisayarlar** üzerine derinlemesine araştırmalar 
 - **Quantum:** Q#, Quantum Development Kit
 - **Diğer Araçlar:** Docker, GitHub Actions
 
-## 📫 Bana Ulaşın
-- [E-Postam:] connect.hyperion@proton.me 🔗
-- [GitHub](https://github.com/KeremOzkan454) 💻
-
-## 🌟 Hedefim
-Azure ve quantum bilgisayarlar hakkında daha fazla öğrenmek ve bu teknolojileri kullanarak anlamlı projeler geliştirmek. Teknolojinin geleceğini şekillendirmeye yardımcı olmak için sürekli olarak yeni beceriler edinmeye çalışıyorum!
-
----
 
 💬 ***Her türlü soru ve geri bildirim için benimle iletişime geçebilirsiniz!***
 
