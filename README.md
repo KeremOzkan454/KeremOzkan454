@@ -24,7 +24,7 @@ Son zamanlarda, **quantum bilgisayarlar** üzerine derinlemesine araştırmalar 
 - **Diğer Araçlar:** Docker, GitHub Actions
 
 ## 📫 Bana Ulaşın
-- [E-Postam](connect.hyperion@proton.me) 🔗
+- [E-Postam:] connect.hyperion@proton.me 🔗
 - [GitHub](https://github.com/KeremOzkan454) 💻
 
 ## 🌟 Hedefim
