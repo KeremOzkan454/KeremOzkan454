@@ -1,4 +1,4 @@
-# Merhab 👋 Ben Kerem
+# Merhaba 👋 Ben Kerem
 
 # 💫 Hakkımda:
 Azure cloud teknolojileri, siber güvenlik, bug bounty, yapay zeka ve API gibi alanlar hakkında merakı olan **9 yaşından beri programlama ile uğraşan** bir liseliyim. Gelecekte **Azure Security Engineer** olmayı hedefliyorum.
