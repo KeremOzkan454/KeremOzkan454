@@ -7,7 +7,6 @@ Azure cloud teknolojileri, siber güvenlik, bug bounty, yapay zeka ve API gibi a
 # 📊 Kerem's GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KeremOzkan454&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KeremOzkan454&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KeremOzkan454&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 Kerem's GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KeremOzkan454&theme=nightowl&no-frame=false&no-bg=true&margin-w=4)
